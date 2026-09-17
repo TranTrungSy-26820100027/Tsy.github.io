@@ -25,11 +25,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK | 
-Chuyên môn Phòng chống lừa đảo và an ninh mạng | https://www.topcv.vn/brand/nganhangthuongmaicophanquandoi/tuyen-dung/chuyen-vien-cao-cap-bao-mat-du-lieu-senior-data-security-data-division-khoi-du-lieu-2026td450980-j2285610.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=CykpN8D6FAgBlucO8Kr6va8VI08HvP4ibiWw8ory_1789655394 | 17/9/2026 |
+| 1 | NGÂN HÀNG TMCP QUÂN ĐỘI – MBBANK | Chuyên môn Phòng chống lừa đảo và an ninh mạng | https://www.topcv.vn/brand/nganhangthuongmaicophanquandoi/tuyen-dung/chuyen-vien-cao-cap-bao-mat-du-lieu-senior-data-security-data-division-khoi-du-lieu-2026td450980-j2285610.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=CykpN8D6FAgBlucO8Kr6va8VI08HvP4ibiWw8ory_1789655394 | 17/9/2026 |
 | 2 | 
-CÔNG TY CỔ PHẦN CÔNG NGHỆ AN NINH MẠNG QUỐC GIA VIỆT NAM | 
-Chiến lược và phân tích bảo mật | https://www.topcv.vn/viec-lam/truong-phong-phat-trien-dich-vu-an-ninh-mang/2299291.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=CykpN8D6FAgBlucO8Kr6va8VI08HvP4ibiWw8ory_1789655755 | 17/9/2026 |
+CÔNG TY CỔ PHẦN CÔNG NGHỆ AN NINH MẠNG QUỐC GIA VIỆT NAM | Chiến lược và phân tích bảo mật | https://www.topcv.vn/viec-lam/truong-phong-phat-trien-dich-vu-an-ninh-mang/2299291.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=CykpN8D6FAgBlucO8Kr6va8VI08HvP4ibiWw8ory_1789655755 | 17/9/2026 |
 | 3 | CÔNG TY CỔ PHẦN TƯ VẤN VÀ DỊCH VỤ CÔNG NGHỆ ASIC | IT - Phần mềm | https://www.topcv.vn/viec-lam/chuyen-vien-kinh-doanh-an-ninh-mang/2222473.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=CykpN8D6FAgBlucO8Kr6va8VI08HvP4ibiWw8ory_1789655824 | 17/9/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
