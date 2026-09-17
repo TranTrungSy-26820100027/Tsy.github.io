@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://TranTrungSy-26820100027.github.io>
+nvh051861@gmail.com · <https://TranTrungSy-26820100027.github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
