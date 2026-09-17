@@ -6,9 +6,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+An Ninh Mạng
 
-Vì sao: …
+Vì sao: Học an ninh mạng có thẻ mang đến cho tôi cơ hội việc làm cũng như thỏa mãn được niềm ao ước từ bé của tôi. Nó khiến tôi có thêm được nhiều kiến thức về lập trình cũng như về bảo mật trên không gian mạng.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
